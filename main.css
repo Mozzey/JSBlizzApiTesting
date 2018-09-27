@@ -1,0 +1,25 @@
+*,
+::after,
+::before {
+  margin: 0;
+  box-sizing: inherit;
+}
+
+html {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* font-size: 62.5%; */
+  margin: 0 auto;
+}
+
+.gear-display {
+  text-align: center;
+  margin-top: 50px;
+}
+.search-input {
+  width: 100%;
+  margin-top: 50px;
+}
